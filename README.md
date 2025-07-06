@@ -12,7 +12,7 @@
 | keras_model.h5 | النموذج المدرب باستخدام Teachable Machine |
 | labels.txt | أسماء الفئات المستخدمة في التدريب |
 | test.jpg.jpg | صورة تم اختبار النموذج عليها |
-| Teachable_Predict_Renad.ipynb | كود بايثون لتشغيل النموذج داخل Google Colab |
+| python_code.ipynb | كود بايثون لتشغيل النموذج داخل Google Colab |
 | output.png | لقطة شاشة توضح نتيجة تشغيل النموذج |
 | teachable_screenshot.jpg | لقطة شاشة من داخل Teachable Machine توضح إعدادات النموذج |
 ---
@@ -32,7 +32,7 @@
 
 1. تدريب نموذج باستخدام [Teachable Machine](https://teachablemachine.withgoogle.com/)
 2. تصدير النموذج بصيغة Keras
-3. تحميل النموذج إلى Google Colab وتشغيل كود التصنيف (`Teachable_Predict_Renad.ipynb`)
+3. تحميل النموذج إلى Google Colab وتشغيل كود التصنيف (`python_code.ipynb`)
 4. عرض النتيجة والتأكد من عمل النموذج بشكل صحيح
 ---
 ## ✨ تم تنفيذ المشروع بواسطة:
